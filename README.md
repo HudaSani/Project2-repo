@@ -1,4 +1,4 @@
-# Diamond Price Prediction using FNN
+# Diamond Price Prediction using Feed-forward Neural Network
 ## Summary
 ##### The aim of this project is to predict the price of a diamond based on a few features. The data used in this project is obtained from [Kaggle: Diamonds](https://www.kaggle.com/datasets/shivam2503/diamonds)
 ##
